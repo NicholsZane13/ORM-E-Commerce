@@ -1,2 +1,26 @@
 # ORM-E-Commerce
- Built the back end for an e-commerce site. Uses Sequelize to interact with a MySQL database.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+module13ku
+
+## Description
+
+The back end for an e-commerce site. This uses Sequelize to interact with a MySQL database.
+
+## Installation
+
+Run npm init and then npm install to run the program.
+
+## Credits
+
+Youtube, KU TA's and Instructors, Google
+
+## License
+
+Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license
+
+## Questions
+
+If there is any questions, please feel free to contact me. My name is Zane Nichols, and my email is nichols.zane16@gmail.com.
+If you'd like to check out any of my other work, check out my github profile at NicholsZane13
